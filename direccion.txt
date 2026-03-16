@@ -1,6 +1,6 @@
 Centro: FACULTAD DE CIENCIAS
 Calle:
 Número:
-CP: 
+CP: 39001
 Ciudad: 
 Provincia: SANTANDER

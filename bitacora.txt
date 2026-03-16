@@ -10,3 +10,5 @@
 4-8	Creo ramas
 9-11	Modifico direccion 
 13 	fast forward
+14 	tengo que anadir un commt por da error 
+15 	CAmbios en local
