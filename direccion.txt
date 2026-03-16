@@ -1,0 +1,6 @@
+Centro:
+Calle:
+Número:
+CP: 
+Ciudad: 
+Provincia: 
