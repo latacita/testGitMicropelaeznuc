@@ -13,3 +13,5 @@
 14 	tengo que anadir un commt por da error 
 15 	CAmbios en local
 16-23   Problemas vincular ramas
+25 	fast forward
+24-29	Etiqueto Todo OK
