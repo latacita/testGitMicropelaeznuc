@@ -12,3 +12,4 @@
 13 	fast forward
 14 	tengo que anadir un commt por da error 
 15 	CAmbios en local
+16-23   Problemas vincular ramas
