@@ -8,3 +8,5 @@
 ====== ============================ ================================
 1-3	Edito bitacora
 4-8	Creo ramas
+9-11	Modifico direccion 
+13 	fast forward
