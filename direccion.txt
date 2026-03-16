@@ -1,6 +1,6 @@
-Centro:
+Centro: FACULTAD DE CIENCIAS
 Calle:
 Número:
 CP: 
 Ciudad: 
-Provincia: 
+Provincia: SANTANDER
